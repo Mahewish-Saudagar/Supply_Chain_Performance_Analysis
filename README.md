@@ -30,13 +30,13 @@ The goal was to turn raw data into meaningful insights and identify potential ar
 
 The Power BI dashboard provides an interactive overview of supply chain performance through KPIs, charts, and filters. It helps explore revenue, costs, supplier contributions, product performance, transportation modes, and quality metrics.
 
-![Power BI Dashboard](<Dashboard Images/PowerBI/Dashboard.png>)
+![Power BI Dashboard](<Dashboard%20Images/PowerBI/Dashboard.png>)
 
 ## Tableau Dashboard
 
 I also developed a Tableau dashboard to explore the same dataset through a different visualization approach. It presents key metrics and comparisons related to suppliers, product types, manufacturing costs, inspection results, defect-rate metrics, and transportation costs.
 
-![Tableau Dashboard](<Dashboard Images/Tableau/Dashboard.png>)
+![Tableau Dashboard](<Dashboard%20Images/Tableau/Dashboard.png>)
 
 ### Note on Tableau Public
 
@@ -70,7 +70,7 @@ Supply_chain_performance_analysis/
 │       ├── Dashboard_with_multiple_filters_applied.png
 │       └── Dashboard_with_one_filter_applied.png
 │
-├── Dashboards/
+├── Dashboard/
 │   ├── Dashboard(PowerBI).pbix
 │   └── Dashboard(Tableau).twbx
 │
@@ -83,7 +83,6 @@ Supply_chain_performance_analysis/
 ├── Insights.pdf
 ├── .gitignore
 └── README.md
-
 ```
 
 ## 📚 What I Learned
